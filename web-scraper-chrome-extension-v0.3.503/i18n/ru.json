@@ -1,0 +1,13 @@
+{
+  "@metadata": {
+    "authors": [
+      "Yatskov Alexander"
+    ],
+    "last-updated": "2020-04-03",
+    "locale": "ru",
+    "message-documentation": "This is russian locale for Web Scraper Plugin"
+  },
+  "sitemaps-menu-title": "Карты обхода",
+  "sitemap-menu-title": "Карта обхода",
+  "create-menu-title": "Добавить карту обхода"
+}

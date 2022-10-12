@@ -1,0 +1,13 @@
+{
+  "@metadata": {
+    "authors": [
+      "Yatskov Alexander"
+    ],
+    "last-updated": "2020-04-03",
+    "locale": "en",
+    "message-documentation": "This is english locales for Web Scraper Plugin"
+  },
+  "sitemaps-menu-title": "Sitemaps",
+  "sitemap-menu-title": "Sitemap",
+  "create-menu-title": "Create new sitemap"
+}
